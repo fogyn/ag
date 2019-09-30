@@ -17,7 +17,4 @@ export class UiServiceService {
     return this.http.get(this.url);
   }
 
-  // public save(user:User){
-  //   return this.http.post(this.url, user);
-  // }
 }
